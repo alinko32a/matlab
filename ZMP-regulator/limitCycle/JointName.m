@@ -1,0 +1,19 @@
+classdef JointName < Simulink.IntEnumType
+  enumeration
+    BODY(1)
+    RLEG_J0(2)
+    RLEG_J1(3)
+    RLEG_J2(4)
+    RLEG_J3(5)
+    RLEG_J4(6)
+    RLEG_J5(7)
+    RLEG_FOOT(8)
+    LLEG_J0(9)
+    LLEG_J1(10)
+    LLEG_J2(11)
+    LLEG_J3(12)
+    LLEG_J4(13)
+    LLEG_J5(14)
+    LLEG_FOOT(15)
+  end
+end 
